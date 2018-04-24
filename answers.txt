@@ -1,0 +1,180 @@
+Amazon
+eBay
+Overstock
+Shopify
+Windows XP
+Windows 2000
+Windows 7
+Windows 95
+Year
+Four Years
+Two Years
+Eight Years
+Active Directory
+Alternative Drive
+Automated Database
+Active Department
+2000
+1998
+1999
+2001
+Think
+Click
+Logic
+Pixel
+Motherboard
+Hard Disk Drive
+Central Processing Unit
+Graphics Processing Unit
+Inkscape
+Paint.NET
+GIMP
+Adobe Photoshop
+Taiwan
+United States
+Germany
+China (People's Republic of)
+Santa Clara
+Palo Alto
+Cupertino
+Mountain View
+The Onion Router
+The Only Router
+The Orange Router
+The Ominous Router
+Intel 4004
+Intel 486SX
+TMS 1000
+AMD AM386
+Jelly Bean
+Lollipop
+Nutella
+Froyo
+December 20, 1990
+December 17, 1996
+November 12, 1990
+November 24, 1995
+New Mexico
+Washington
+Colorado
+Arizona
+Content Delivery Network
+Content Distribution Network
+Computational Data Network
+Compressed Data Network
+Video Card
+Hard Drive
+Processor
+Power Supply
+10
+12
+8
+4
+Mystic Mansion
+Trusty Tahr
+Utopic Unicorn
+Wily Werewolf
+Infrastructure as a Service
+Internet as a Service
+Internet and a Server
+Infrastructure as a Server
+JavaScript
+C#
+Python
+PHP
+Luna
+Neptune
+Whistler
+Bliss
+print(\"Hello World\")
+console.log(\"Hello World\")
+echo \"Hello World\"
+printf(\"Hello World\")
+&lt;marquee&gt;&lt;/marquee&gt;
+&lt;scroll&gt;&lt;/scroll&gt;
+&lt;move&gt;&lt;/move&gt;
+&lt;slide&gt;&lt;/slide&gt;
+center
+static
+absolute
+relative
+Heat Sink
+CPU Vent
+Temperature Decipator
+Heat Vent
+?:
+??
+if then
+?
+Command Line Interface
+Common Language Input
+Control Line Interface
+Common Language Interface
+10 Gb/s
+5 Gb/s
+8 Gb/s
+1 Gb/s
+Liquid Crystal Display
+Language Control Design
+Last Common Difference
+Long Continuous Design
+Mac OS
+Windows
+Linux
+OS/2
+FM-7
+PC-9801
+Xmillennium 
+MSX
+Serbia
+Romania
+Russia
+Rwanda
+Austria
+Argentina
+Australia
+Angola
+Central Processing Unit
+Motherboard
+Graphics Processing Unit
+Keyboard
+Graphics Processing Unit
+Gaming Processor Unit
+Graphite Producing Unit
+Graphical Proprietary Unit
+Motorola 68000
+Zilog Z80
+Yamaha YM2612
+Intel 8088
+Honeycomb
+Eclair
+Froyo
+Marshmellow
+Jonathan Ive
+Steve Jobs
+Ronald Wayne
+Steve Wozniak
+2016
+2013
+2009
+2011
+Non-impact printer
+Impact printer
+Daisywheel printer
+Dot matrix printer
+Multipurpose Internet Mail Extensions
+Mail Internet Mail Exchange
+Multipurpose Interleave Mail Exchange
+Mail Interleave Method Exchange
+Java
+Python
+Solaris OS
+C++
+Hewlett-Packard
+Howard Packmann
+Husker-Pollosk
+Hellman-Pohl
+200
+100
+500
+1000
