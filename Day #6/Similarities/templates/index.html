@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Similarities</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="../static/bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" media="screen" href="../static/bootstrap.min.css" />
+</head>
+<body>
+    {% block body %}
+    <div class="container">
+        <form action="/results" enctype="multipart/form-data" method="POST">
+            <div class="form-group">
+                <label for="mainFile">Main File:</label>
+                <input type="file" name="mainFile" id="mainFile" class="form-control">
+            </div>
+            <div class="form-group">
+                <label for="secondFile">File to find similarities with: </label>
+                <input type="file" name="secondFile" id="secondFile" class="form-control">    
+            </div>
+            <button type="submit" class="btn btn-success">Submit</button>
+        </form>
+    </div>
+    {% endblock %}
+</body>
+</html>

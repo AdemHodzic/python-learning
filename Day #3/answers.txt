@@ -1,0 +1,45 @@
+Amazon(sep)eBay(sep)Overstock(sep)Shopify
+Windows XP(sep)Windows 2000(sep)Windows 7(sep)Windows 95
+Year(sep)Four Years(sep)Two Years(sep)Eight Years
+Active Directory(sep)Alternative Drive(sep)Automated Database(sep)Active Department
+2000(sep)1998(sep)1999(sep)2001
+Think(sep)Click(sep)Logic(sep)Pixel
+Motherboard(sep)Hard Disk Drive(sep)Central Processing Unit(sep)Graphics Processing Unit
+Inkscape(sep)Paint.NET(sep)GIMP(sep)Adobe Photoshop
+Taiwan(sep)United States(sep)Germany(sep)China (People's Republic of)
+Santa Clara(sep)Palo Alto(sep)Cupertino(sep)Mountain View
+The Onion Router(sep)The Only Router(sep)The Orange Router(sep)The Ominous Router
+Intel 4004(sep)Intel 486SX(sep)TMS 1000(sep)AMD AM386
+Jelly Bean(sep)Lollipop(sep)Nutella(sep)Froyo
+December 20, 1990(sep)December 17, 1996(sep)November 12, 1990(sep)November 24, 1995
+New Mexico(sep)Washington(sep)Colorado(sep)Arizona
+Content Delivery Network(sep)Content Distribution Network(sep)Computational Data Network(sep)Compressed Data Network
+Video Card(sep)Hard Drive(sep)Processor(sep)Power Supply
+10(sep)12(sep)8(sep)4
+Mystic Mansion(sep)Trusty Tahr(sep)Utopic Unicorn(sep)Wily Werewolf
+Infrastructure as a Service(sep)Internet as a Service(sep)Internet and a Server(sep)Infrastructure as a Server
+JavaScript(sep)C#(sep)Python(sep)PHP
+Luna(sep)Neptune(sep)Whistler(sep)Bliss
+print("Hello World")(sep)console.log("Hello World")(sep)echo "Hello World"(sep)printf("Hello World")
+<marquee></marquee>(sep)<scroll></scroll>(sep)<move></move>(sep)<slide></slide>
+center(sep)static(sep)absolute(sep)relative
+Heat Sink(sep)CPU Vent(sep)Temperature Decipator(sep)Heat Vent
+?:(sep)??(sep)if then(sep)?
+Command Line Interface(sep)Common Language Input(sep)Control Line Interface(sep)Common Language Interface
+10 Gb/s(sep)5 Gb/s(sep)8 Gb/s(sep)1 Gb/s
+Liquid Crystal Display(sep)Language Control Design(sep)Last Common Difference(sep)Long Continuous Design
+Mac OS(sep)Windows(sep)Linux(sep)OS/2
+FM-7(sep)PC-9801(sep)Xmillennium (sep)MSX
+Serbia(sep)Romania(sep)Russia(sep)Rwanda
+Austria(sep)Argentina(sep)Australia(sep)Angola
+Central Processing Unit(sep)Motherboard(sep)Graphics Processing Unit(sep)Keyboard
+Graphics Processing Unit(sep)Gaming Processor Unit(sep)Graphite Producing Unit(sep)Graphical Proprietary Unit
+Motorola 68000(sep)Zilog Z80(sep)Yamaha YM2612(sep)Intel 8088
+Honeycomb(sep)Eclair(sep)Froyo(sep)Marshmellow
+Jonathan Ive(sep)Steve Jobs(sep)Ronald Wayne(sep)Steve Wozniak
+2016(sep)2013(sep)2009(sep)2011
+Non-impact printer(sep)Impact printer(sep)Daisywheel printer(sep)Dot matrix printer
+Multipurpose Internet Mail Extensions(sep)Mail Internet Mail Exchange(sep)Multipurpose Interleave Mail Exchange(sep)Mail Interleave Method Exchange
+Java(sep)Python(sep)Solaris OS(sep)C++
+Hewlett-Packard(sep)Howard Packmann(sep)Husker-Pollosk(sep)Hellman-Pohl
+200(sep)100(sep)500(sep)1000
