@@ -1,8 +1,9 @@
 import os
 from flask import Flask, render_template, request
+import re
 
 app = Flask(__name__)
-app.config['MAX_CONTENT_LENGTH'] = 4 * 1024 * 1024
+#app.config['MAX_CONTENT_LENGTH'] = 8 * 1024 * 1024
 
 ALLOWED_EXTENSIONS = ['.txt']
 
@@ -21,7 +22,7 @@ def index():
 
 @app.route('/results', methods=['POST'])
 def results():
-    try:
+    #try:
         if 'mainFile' not in request.files or 'secondFile' not in request.files:
             return render_template('error.html', error="File wasn't sent")
 
@@ -32,11 +33,15 @@ def results():
             return render_template('error.html', error="Empty name")
 
         if isAllowed(mainFile.filename) and isAllowed(secondFile.filename):
-            return render_template('results.html')
+            main_file_string = str(mainFile.read()).replace('b','',1)
+            second_file_string = str(secondFile.read()).replace('b','',1)
+            main_file_string = re.sub(r'\r\n|\r|\n','\n', main_file_string)
+            return render_template('results.html', mainFileString=main_file_string
+            , secondFileString=second_file_string  )
         else:
             return render_template('error.html', eror="Wrong file format")
         
         return render_template('error.html', error="Failed to process the file")
-    except:
-        return render_template('error.html', error="File is too large")
+    #except:
+    #    return render_template('error.html', error="File is too large")
 app.run(debug=True)
