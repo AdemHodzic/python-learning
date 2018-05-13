@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Page Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="../static/style.css" />
+    <script src="../static/script.js"></script>
+</head>
+<body>
+    <h1>Welcome, {{ username }}</h1>
+    <table>
+        <tr>
+            <th>Done</th>
+            <th>Name</th>
+            <th>Duration</th>
+        </tr>
+        {%for val in check_list%}
+        <tr>
+            <td>{{ val['is_done'] }}</td>
+            <td>{{ val['name'] }}</td>
+            <td>{{ val['duration'] }}</td>
+        </tr>
+        {%endfor%}
+    </table>
+
+    <button ><a href="/add">Add a task</a></button>
+    <button><a href="/delete">Delete a task</a></button>
+</body>
+</html>
