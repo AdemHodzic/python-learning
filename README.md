@@ -1,1 +1,1 @@
-Just couple of exercise files I made while I was learning Python from book "Head First Python"
+#Coding challenges from sites like leetcode or freecodecamp implemented in python
